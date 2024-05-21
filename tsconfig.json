@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app-example/(tabs)/index.jsx", "app-example/(tabs)/explore.jsx", "app-example/(tabs)/_layout.jsx", "app-example/+not-found.jsx", "app-example/+html.jsx", "app-example/_layout.jsx", "app/(auth)/sign-up.jsx", "app/(auth)/sign-in.jsx", "app/(auth)/_layout.jsx", "app/(tabs)/_layout.jsx", "app/(tabs)/bookmark.jsx", "app/(tabs)/create.jsx", "app/(tabs)/home.jsx", "app/(tabs)/profile.jsx", "app/_layout.jsx", "app/index.jsx"  ]
 }
