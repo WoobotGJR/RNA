@@ -1,50 +1,40 @@
-# Welcome to your Expo app 👋
+My Expo Pet-Project
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to my pet project based on Expo (React Native)! This project was initially created by following a video course to learn the basics of React Native and has since been slightly reworked to include additional functionalities. It serves as a great example of building a feature-rich mobile application with a user-friendly interface.
+Features
 
-## Get started
+    Video Watching: Stream and watch videos directly within the app.
+    Search Queries: Integrated search functionality using API on Appwrite.
+    Authorization: Secure user authentication and authorization.
+    User Sessions: Manage user sessions seamlessly.
+    Nativewind: Stylish and responsive UI built with CSS-in-JS technology.
 
-1. Install dependencies
+Getting Started
 
-   ```bash
-   npm install
-   ```
+Follow these instructions to get a copy of the project up and running on your local machine.
+Prerequisites
 
-2. Start the app
+    Node.js
+    npm
+    Expo CLI
 
-   ```bash
-    npx expo start
-   ```
+Installation
+1. Clone the Repository
 
-In the output, you'll find options to open the app in a
+`git clone https://github.com/WoobotGJR/react-native-app`
+`cd react-native-app`
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+2. Install Dependencies
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+`npm install`
 
-## Get a fresh project
+3. Start the App
 
-When you're ready, run:
+`npx expo start -c`
 
-```bash
-npm run reset-project
-```
+Reset Project
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+If you want to start fresh, you can reset the project. This will move the starter code to the app-example directory and create a blank app directory where you can begin developing.
+Command to Reset Project
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+`npm run reset-project`
